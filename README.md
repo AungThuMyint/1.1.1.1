@@ -8,7 +8,7 @@
 
 > pkg install wget -y
 
-> wget https://git.io/JtNK6 -O 1.1.1.1.py [Termux]
+> wget https://git.io/JtN6e -O 1.1.1.1.py
 
 > chmod +x 1.1.1.1.py
 
