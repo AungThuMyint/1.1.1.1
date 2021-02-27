@@ -1,4 +1,6 @@
-# 1.1.1.1 WARP+ Unlimited Script [Credit ALIILAPRO](https://repl.it/@aliilapro/warp#main.py)
+# 1.1.1.1 WARP+ Unlimited Script [Credit ALIILAPRO](https://repl.it/@aliilapro)
+
+* Setup In Termux
 
 > pkg update -y
 
@@ -13,3 +15,11 @@
 > chmod +x 1.1.1.1.py
 
 > python3.9 1.1.1.1.py
+
+* Setup In Browser (Chrome)
+
+> Go To Browser
+
+> Paste URL (https://repl.it/@aliilapro/warp#main.py)
+
+> Run And Paste ID
