@@ -28,3 +28,12 @@
 
 > [Click Here](https://youtu.be/ndzTh-G25zQ)
 
+# Screenshot
+
+* PC
+
+![View](https://github.com/AungThuMyint/1.1.1.1/blob/main/1.1.1.1.png)
+
+* Termux
+
+![View](https://github.com/AungThuMyint/1.1.1.1/blob/main/1.1.1.1.png)
