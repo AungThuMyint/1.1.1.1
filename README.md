@@ -30,10 +30,10 @@
 
 # Screenshot
 
-* PC
+* PC (Windows 10)
 
 ![View](https://github.com/AungThuMyint/1.1.1.1/blob/main/1.1.1.1.png)
 
-* Termux
+* Termux (Android 10)
 
 ![View](https://github.com/AungThuMyint/1.1.1.1/blob/main/Termux.png)
