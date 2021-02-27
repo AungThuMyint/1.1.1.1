@@ -36,4 +36,4 @@
 
 * Termux
 
-![View](https://github.com/AungThuMyint/1.1.1.1/blob/main/1.1.1.1.png)
+![View](https://github.com/AungThuMyint/1.1.1.1/blob/main/Termux.png)
