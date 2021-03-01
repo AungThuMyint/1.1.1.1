@@ -75,13 +75,14 @@ while True:
 		print("")
 		animation = ["[■□□□□□□□□□] 10%","[■■□□□□□□□□] 20%", "[■■■□□□□□□□] 30%", "[■■■■□□□□□□] 40%", "[■■■■■□□□□□] 50%", "[■■■■■■□□□□] 60%", "[■■■■■■■□□□] 70%", "[■■■■■■■■□□] 80%", "[■■■■■■■■■□] 90%", "[■■■■■■■■■■] 100%"] 
 		for i in range(len(animation)):
-			time.sleep(0.5)
+			time.sleep(0.3)
 			sys.stdout.write("\r[+] Preparing ... " + animation[i % len(animation)])
 			sys.stdout.flush()
 		print(f"\n[+] WORK ON ID : {referrer}")    
 		print(f"[+] {g} GB Has Been Successfully Added To Your Account.")
-		print(f"[#] Total : {g} Good {b} Bad")
-		print("[*] After 18 Seconds, A New Request Will Be Sent.")
+		print(f"[+] ID : {referrer} , GB : {g} Successfully Added.", file=open("Logs.txt", "a"))
+		print(f"[+] Total : {g} Good {b} Bad")
+		print("[+] After 18 Seconds, A New Request Will Be Sent.")
 		time.sleep(18)
 	else:
 		b = b + 1
@@ -89,5 +90,6 @@ while True:
 		print("")
 		print("                  WARP-PLUS-CLOUDFLARE (Script)" + " By ALIILAPRO")
 		print("")
-		print("[-] Error When Connecting To Server.")
-		print(f"[-] Total : {g} Good {b} Bad")
+		print("[-] Error When Connecting To Server.\n")
+		print(f"[-] ID : {referrer} , GB : {g} Successfully Added.", file=open("Logs.txt", "a"))
+		exit()
