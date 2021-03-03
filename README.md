@@ -18,9 +18,11 @@
 
 * Setup In Browser (Chrome)
 
-> Go To [Browser](https://bit.ly/3uILNLo)
+> Go To [Browser](https://repl.it/@3RR0R404MM/WarpPlus#main.py)
 
-> Run And Paste ID
+> Run And Type GB Number
+
+> Paste ID
 
 * Setup In Windows 10
 
