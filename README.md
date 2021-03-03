@@ -24,6 +24,12 @@
 
 > Run And Paste ID
 
+* Setup In Windows 10
+
+> Download [Zip File](https://github.com/AungThuMyint/1.1.1.1/blob/main/1.1.1.1.zip)
+
+> Extract Zip And Run 1.1.1.1.exe
+
 # YouTube Tutorial Video
 
 > [Click Here](https://youtu.be/ndzTh-G25zQ)
