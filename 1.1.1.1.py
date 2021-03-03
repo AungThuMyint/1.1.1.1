@@ -24,6 +24,7 @@ print ("[+] THIS SCRIPT CODDED BY ALIILAPRO")
 print ("[+] SITE : aliilapro.github.io") 
 print ("[+] TELEGRAM : aliilapro")
 print ("-------------------------------------------------------------------------")
+no = int(input("[#] Type GB Number : "))
 referrer = input("[#] Enter The WARP+ ID : ")
 def genString(stringLength):
 	try:
@@ -83,6 +84,8 @@ while True:
 		print(f"[+] ID : {referrer} , GB : {g} Successfully Added.", file=open("Logs.txt", "a"))
 		print(f"[+] Total : {g} Good {b} Bad")
 		print("[+] After 18 Seconds, A New Request Will Be Sent.")
+		if g == no:
+			exit()
 		time.sleep(18)
 	else:
 		b = b + 1
