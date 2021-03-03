@@ -18,9 +18,7 @@
 
 * Setup In Browser (Chrome)
 
-> Go To Browser
-
-> Paste URL (https://repl.it/@3RR0R404MM/WarpPlus#main.py)
+> Go To [Browser](https://bit.ly/3uILNLo)
 
 > Run And Paste ID
 
