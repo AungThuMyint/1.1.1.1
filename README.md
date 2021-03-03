@@ -43,3 +43,7 @@
 * Termux
 
 ![View](https://github.com/AungThuMyint/1.1.1.1/blob/main/Termux.png)
+
+* Update 1.1.1.1.py
+
+![View](https://github.com/AungThuMyint/1.1.1.1/blob/main/Update.png)
