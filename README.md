@@ -26,7 +26,7 @@
 
 * Setup In Windows 10
 
-> Download [Zip File](https://raw.githubusercontent.com/AungThuMyint/1.1.1.1/main/1.1.1.1.zip)
+> Download [Zip](https://raw.githubusercontent.com/AungThuMyint/1.1.1.1/main/1.1.1.1.zip) File
 
 > Extract Zip And Run 1.1.1.1.exe
 
